@@ -1,5 +1,5 @@
 # JS Color Generator
-you can check out [link](https://github.com/Jagrati1213/shade-up/)
+you can check out [link](https://jagrati1213.github.io/shade-up/)
 ## Used Language 
 - HTML
 - CSS
